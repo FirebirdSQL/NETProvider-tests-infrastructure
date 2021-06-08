@@ -1,0 +1,1 @@
+This repository contains specifically prepared Firebird binaries for [NETProvider](https://github.com/FirebirdSQL/NETProvider)'s tests.
